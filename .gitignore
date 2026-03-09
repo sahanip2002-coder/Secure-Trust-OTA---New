@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+
+# Server certificates and keys
+server/cert.pem
+server/key.pem
+
+# Client firmware files
+client1/firmware_update.bin
+client2/firmware_update.bin
